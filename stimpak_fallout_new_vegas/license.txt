@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stimpak (Fallout New Vegas)
+* source:	https://sketchfab.com/3d-models/stimpak-fallout-new-vegas-c85193ec99ae4a29843d801aeaa19c25
+* author:	Second Man (https://sketchfab.com/SecondMann)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stimpak (Fallout New Vegas)" (https://sketchfab.com/3d-models/stimpak-fallout-new-vegas-c85193ec99ae4a29843d801aeaa19c25) by Second Man (https://sketchfab.com/SecondMann) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
