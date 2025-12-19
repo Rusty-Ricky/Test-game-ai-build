@@ -1,0 +1,11 @@
+Model Information:
+* title:	SWIPE
+* source:	https://sketchfab.com/3d-models/swipe-799ce3c4507241d2845fb243ea429361
+* author:	SomeDude (https://sketchfab.com/Patyot.Suttipreecha)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SWIPE" (https://sketchfab.com/3d-models/swipe-799ce3c4507241d2845fb243ea429361) by SomeDude (https://sketchfab.com/Patyot.Suttipreecha) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
