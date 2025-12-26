@@ -1,0 +1,11 @@
+Model Information:
+* title:	[Animations] Low - Poly HK USP
+* source:	https://sketchfab.com/3d-models/animations-low-poly-hk-usp-8e693c1f6c8e45c9a82bfc1b601968c8
+* author:	snedlee (https://sketchfab.com/snedlee)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "[Animations] Low - Poly HK USP" (https://sketchfab.com/3d-models/animations-low-poly-hk-usp-8e693c1f6c8e45c9a82bfc1b601968c8) by snedlee (https://sketchfab.com/snedlee) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

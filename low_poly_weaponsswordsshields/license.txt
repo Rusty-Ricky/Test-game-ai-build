@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low poly weapons,swords,shields
+* source:	https://sketchfab.com/3d-models/low-poly-weaponsswordsshields-26848e32c3e04bd688c6a362f4270de5
+* author:	packy films (https://sketchfab.com/packyfilms)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low poly weapons,swords,shields" (https://sketchfab.com/3d-models/low-poly-weaponsswordsshields-26848e32c3e04bd688c6a362f4270de5) by packy films (https://sketchfab.com/packyfilms) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

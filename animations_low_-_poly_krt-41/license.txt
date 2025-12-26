@@ -1,0 +1,11 @@
+Model Information:
+* title:	[Animations] Low - Poly KRT-41
+* source:	https://sketchfab.com/3d-models/animations-low-poly-krt-41-066f9986300b47b3bd8f0d588f2b62a1
+* author:	snedlee (https://sketchfab.com/snedlee)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "[Animations] Low - Poly KRT-41" (https://sketchfab.com/3d-models/animations-low-poly-krt-41-066f9986300b47b3bd8f0d588f2b62a1) by snedlee (https://sketchfab.com/snedlee) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
