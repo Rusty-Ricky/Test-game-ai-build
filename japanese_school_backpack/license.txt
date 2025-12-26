@@ -1,0 +1,11 @@
+Model Information:
+* title:	Japanese school backpack
+* source:	https://sketchfab.com/3d-models/japanese-school-backpack-32d5b9d4db3f41d8a0f9b7380e8ef2cc
+* author:	Fakumen (https://sketchfab.com/Fakumen)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Japanese school backpack" (https://sketchfab.com/3d-models/japanese-school-backpack-32d5b9d4db3f41d8a0f9b7380e8ef2cc) by Fakumen (https://sketchfab.com/Fakumen) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
