@@ -1,0 +1,451 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1856,
+      "max": [
+        1.0132819414138794,
+        1.0,
+        1.9595940113067627
+      ],
+      "min": [
+        -1.419461965560913,
+        -1.8589789867401123,
+        -1.3284369707107544
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 22272,
+      "componentType": 5126,
+      "count": 1856,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1856,
+      "max": [
+        1.0030330419540405,
+        0.9997701048851013
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 2400,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 44544,
+      "componentType": 5126,
+      "count": 414,
+      "max": [
+        1.0,
+        1.6517289876937866,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.110205054283142,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 49512,
+      "componentType": 5126,
+      "count": 414,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 14848,
+      "componentType": 5126,
+      "count": 414,
+      "max": [
+        0.9999001026153564,
+        0.9999001026153564
+      ],
+      "min": [
+        9.998000314226374e-05,
+        9.998000314226374e-05
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 9600,
+      "componentType": 5125,
+      "count": 546,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 54480,
+      "componentType": 5126,
+      "count": 1371,
+      "max": [
+        1.0,
+        1.0000070333480835,
+        0.26672670245170593
+      ],
+      "min": [
+        -1.0038050413131714,
+        -1.0000020265579224,
+        -1.134248971939087
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 70932,
+      "componentType": 5126,
+      "count": 1371,
+      "max": [
+        0.9998942017555237,
+        0.9999948740005493,
+        0.9999940991401672
+      ],
+      "min": [
+        -0.9998937845230103,
+        -0.9999945759773254,
+        -0.6245365142822266
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 18160,
+      "componentType": 5126,
+      "count": 1371,
+      "max": [
+        0.9995924234390259,
+        0.863153874874115
+      ],
+      "min": [
+        0.00040763599099591374,
+        0.00040763599099591374
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 11784,
+      "componentType": 5125,
+      "count": 3492,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Elbolillo (https://sketchfab.com/Elbolilloduro)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/maquinas-de-refrescos-89b9b0ea47c04f42ac3a3598db835341",
+      "title": "Maquinas De Refrescos"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 25752,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 29128,
+      "byteOffset": 25752,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 87384,
+      "byteOffset": 54880,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 142264,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Material_001_baseColor.png"
+    },
+    {
+      "uri": "textures/Material_003_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Material_004_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Material_001",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5527864044999999
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Material_003",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Material_004",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Material_004-material",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Material_003-material",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Material_001-material",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        4,
+        6
+      ],
+      "name": "Collada visual scene group"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1.234083,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.234083,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.234083,
+        0.0,
+        -5.692612,
+        1.368953,
+        -3.221044,
+        1.0
+      ],
+      "name": "Cube_003"
+    },
+    {
+      "mesh": 0,
+      "name": "Material_004-material"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        2.346284,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        4.646138,
+        0.0,
+        5.780649,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Cube_002"
+    },
+    {
+      "mesh": 1,
+      "name": "Material_003-material"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        2.427416,
+        -0.008262949,
+        0.008501808,
+        0.0,
+        -0.01686735,
+        5.72061e-05,
+        4.815981,
+        0.0,
+        -0.008142688,
+        -2.392087,
+        -1.04561e-07,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Plane"
+    },
+    {
+      "mesh": 2,
+      "name": "Material_001-material"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
