@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low poly column Debris
+* source:	https://sketchfab.com/3d-models/low-poly-column-debris-6d6b2692864142689d543416e6457264
+* author:	haniissa (https://sketchfab.com/haniissa)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low poly column Debris" (https://sketchfab.com/3d-models/low-poly-column-debris-6d6b2692864142689d543416e6457264) by haniissa (https://sketchfab.com/haniissa) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
