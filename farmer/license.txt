@@ -1,0 +1,11 @@
+Model Information:
+* title:	Farmer
+* source:	https://sketchfab.com/3d-models/farmer-ae5182ccddfd47acb59400f739581743
+* author:	LxNazarov (https://sketchfab.com/LxNazarov)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Farmer" (https://sketchfab.com/3d-models/farmer-ae5182ccddfd47acb59400f739581743) by LxNazarov (https://sketchfab.com/LxNazarov) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
