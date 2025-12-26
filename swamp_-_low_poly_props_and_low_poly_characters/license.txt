@@ -1,0 +1,11 @@
+Model Information:
+* title:	Swamp - Low Poly Props and low poly characters
+* source:	https://sketchfab.com/3d-models/swamp-low-poly-props-and-low-poly-characters-b93eb160c5f049c5aeac1ac3e0c15b43
+* author:	micaelsampaio (https://sketchfab.com/micaelsampaio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Swamp - Low Poly Props and low poly characters" (https://sketchfab.com/3d-models/swamp-low-poly-props-and-low-poly-characters-b93eb160c5f049c5aeac1ac3e0c15b43) by micaelsampaio (https://sketchfab.com/micaelsampaio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
