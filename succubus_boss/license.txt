@@ -1,0 +1,11 @@
+Model Information:
+* title:	Succubus Boss
+* source:	https://sketchfab.com/3d-models/succubus-boss-8c44e0085b3245b3af4c00517af89f8d
+* author:	SuccubusInSc (https://sketchfab.com/SuccubusInSc)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Succubus Boss" (https://sketchfab.com/3d-models/succubus-boss-8c44e0085b3245b3af4c00517af89f8d) by SuccubusInSc (https://sketchfab.com/SuccubusInSc) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
